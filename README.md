@@ -1,3 +1,4 @@
+![logo](https://github.com/reddydilip207/reddydilip207/blob/main/data%20analysis.jpg)
 <h1 align="center">Hi 👋, I'm Dilip Kumar</h1>
 <h3 align="center">Aspiring Data Analyst | Power BI | SQL | Excel. Passionate about transforming data into actionable business insights.</h3>
 
