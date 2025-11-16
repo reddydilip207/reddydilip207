@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Dilip Kumar</h1>
 <h3 align="center">Aspiring Data Analyst | Power BI | SQL | Excel. Passionate about transforming data into actionable business insights.</h3>
 
-<img align="right" alt="image" width="626" height="417"  src="https://github.com/user-attachments/assets/4c3aec45-7c5d-4b9f-bd7a-2a8a2e8e5085" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddydilip207&label=Profile%20views&color=0e75b6&style=flat" alt="reddydilip207" /> 
 
